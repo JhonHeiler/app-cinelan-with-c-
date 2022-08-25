@@ -1,0 +1,73 @@
+C:\Users\Moises Flores\AppData\Local\Temporary Projects\CINELAN\bin\Debug\CINELAN.exe.config
+C:\Users\Moises Flores\AppData\Local\Temporary Projects\CINELAN\bin\Debug\CINELAN.exe
+C:\Users\Moises Flores\AppData\Local\Temporary Projects\CINELAN\bin\Debug\CINELAN.pdb
+C:\Users\Moises Flores\AppData\Local\Temporary Projects\CINELAN\obj\Debug\CINELAN.csprojResolveAssemblyReference.cache
+C:\Users\Moises Flores\AppData\Local\Temporary Projects\CINELAN\obj\Debug\CINELAN.FormPrincipal.resources
+C:\Users\Moises Flores\AppData\Local\Temporary Projects\CINELAN\obj\Debug\CINELAN.Properties.Resources.resources
+C:\Users\Moises Flores\AppData\Local\Temporary Projects\CINELAN\obj\Debug\CINELAN.csproj.GenerateResource.Cache
+C:\Users\Moises Flores\AppData\Local\Temporary Projects\CINELAN\obj\Debug\CINELAN.exe
+C:\Users\Moises Flores\AppData\Local\Temporary Projects\CINELAN\obj\Debug\CINELAN.pdb
+C:\Users\Moises Flores\Desktop\CINELAN\CINELAN\bin\Debug\CINELAN.exe.config
+C:\Users\Moises Flores\Desktop\CINELAN\CINELAN\obj\Debug\CINELAN.exe
+C:\Users\Moises Flores\Desktop\CINELAN\CINELAN\obj\Debug\CINELAN.pdb
+C:\Users\Moises Flores\Desktop\CINELAN\CINELAN\obj\Debug\CINELAN.csprojResolveAssemblyReference.cache
+C:\Users\Moises Flores\Desktop\CINELAN\CINELAN\obj\Debug\CINELAN.FormPrincipal.resources
+C:\Users\Moises Flores\Desktop\CINELAN\CINELAN\obj\Debug\CINELAN.Properties.Resources.resources
+C:\Users\Moises Flores\Desktop\CINELAN\CINELAN\obj\Debug\CINELAN.csproj.GenerateResource.Cache
+C:\Users\Moises Flores\Desktop\CINELAN\CINELAN\bin\Debug\CINELAN.exe
+C:\Users\Moises Flores\Desktop\CINELAN\CINELAN\bin\Debug\CINELAN.pdb
+C:\Users\Moises Flores\Desktop\CINELAN\CINELAN\obj\Debug\CINELAN.FormInformacion.resources
+C:\Users\Moises Flores\Desktop\CINELAN\CINELAN\obj\Debug\CINELAN.FormPromocionesYDescuento.resources
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\bin\Debug\CINELAN.exe.config
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\bin\Debug\CINELAN.exe
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\bin\Debug\CINELAN.pdb
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.csprojAssemblyReference.cache
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.FormInformacion.resources
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.FormPrincipal.resources
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.FormPromocionesYDescuento.resources
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.Properties.Resources.resources
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.csproj.GenerateResource.cache
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.exe
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.pdb
+C:\Users\User\Downloads\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.Actualizar.resources
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\bin\Debug\CINELAN.exe.config
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\bin\Debug\CINELAN.exe
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\bin\Debug\CINELAN.pdb
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.csprojAssemblyReference.cache
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.Actualizar.resources
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.FormInformacion.resources
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.FormPrincipal.resources
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.FormPromocionesYDescuento.resources
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.Properties.Resources.resources
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.csproj.GenerateResource.cache
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.exe
+C:\Users\jorge\OneDrive\Escritorio\Bu\CINELANCompleto\CINELAN\CINELAN\obj\Debug\CINELAN.pdb
+D:\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.csprojAssemblyReference.cache
+D:\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.exe
+D:\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.pdb
+D:\Cinelan\CINELAN\CINELAN\bin\Debug\CINELAN.exe.config
+D:\Cinelan\CINELAN\CINELAN\bin\Debug\CINELAN.exe
+D:\Cinelan\CINELAN\CINELAN\bin\Debug\CINELAN.pdb
+D:\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.Actualizar.resources
+D:\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.FormInformacion.resources
+D:\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.FormPrincipal.resources
+D:\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.FormPromocionesYDescuento.resources
+D:\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.Properties.Resources.resources
+D:\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.csproj.GenerateResource.cache
+D:\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.csproj.CoreCompileInputs.cache
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\bin\Debug\CINELAN.exe.config
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\bin\Debug\CINELAN.exe
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\bin\Debug\CINELAN.pdb
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.csprojAssemblyReference.cache
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.FormInformacion.resources
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.FormPrincipal.resources
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.FormPromocionesYDescuento.resources
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.Properties.Resources.resources
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.csproj.GenerateResource.cache
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.csproj.CoreCompileInputs.cache
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.exe
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.pdb
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.Ayuda.resources
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Debug\CINELAN.Acercade.resources

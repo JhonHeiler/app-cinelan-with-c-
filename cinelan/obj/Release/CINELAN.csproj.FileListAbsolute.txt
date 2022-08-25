@@ -1,0 +1,27 @@
+D:\Cinelan\CINELAN\CINELAN\bin\Release\CINELAN.exe.config
+D:\Cinelan\CINELAN\CINELAN\bin\Release\CINELAN.exe
+D:\Cinelan\CINELAN\CINELAN\bin\Release\CINELAN.pdb
+D:\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.csprojAssemblyReference.cache
+D:\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.Actualizar.resources
+D:\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.FormInformacion.resources
+D:\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.FormPrincipal.resources
+D:\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.FormPromocionesYDescuento.resources
+D:\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.Properties.Resources.resources
+D:\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.csproj.GenerateResource.cache
+D:\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.csproj.CoreCompileInputs.cache
+D:\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.exe
+D:\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.pdb
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\bin\Release\CINELAN.exe.config
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\bin\Release\CINELAN.exe
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\bin\Release\CINELAN.pdb
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.csprojAssemblyReference.cache
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.FormInformacion.resources
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.FormPrincipal.resources
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.FormPromocionesYDescuento.resources
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.Properties.Resources.resources
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.csproj.GenerateResource.cache
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.csproj.CoreCompileInputs.cache
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.exe
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.pdb
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.Acercade.resources
+D:\ESTRUCTURA DE DATOS\Cinelan\CINELAN\CINELAN\obj\Release\CINELAN.Ayuda.resources

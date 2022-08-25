@@ -1,0 +1,37 @@
+CINELAN requiere una aplicación que le permita vender los tiquetes y productos para las salas de cine, la aplicación debe registrar los datos personales del cliente (como mínimo documento, nombre, apellidos edad y tipo de cliente (oro, plata, VIP o General)) 
+Al momento de la venta se debe registrar el cliente con sus datos, la película que va a ver, la sala, asiento y el valor pagado. El cliente puede comprar productos para comer en la sala como (crispetas, perros, gaseosa, papas, etc)
+
+Valor taquilla 
+• Menores a 5 años $5000
+• Entre 18 y 50 años $6000
+• Entre 18 y 50 años $8000
+• Mayores de 50 años $7000
+
+Descuentos
+
+• VIP 10% en taquilla y comidas
+• Oro 5% en taquilla y comidas
+• PLATA 5% en taquilla
+• GENERAL no tiene descuento
+
+La aplicación debe permitir consultar las siguientes opciones:
+
+• Actualizar los datos de los clientes y los productos
+• Listado de personas que entraron a cada sala, película y su asiento
+• Listados de personas por edades
+• Listado de entradas vendidas cada tipo de cliente
+• Consolidado de dinero recaudado por cada sala
+• Película más vista en cada sala.
+• Listado de personas que entraron a cine y compraron comida
+• Listado de personas que entraron a cine y no compraron comida
+• Total de ventas por comidas
+• Total de ventas por entradas a cine
+• Las demás opciones que considere
+
+Al momento de entregar el proyecto debe tener información cargada de verios productos y clientes
+
+El algoritmo debe entregarse en un archivo comprimido que contenga la carpeta con todos los archivos del proyecto. Esta actividad será desarrollada de forma asincrónica e individual por cada estudiante y cargados a la plataforma en el portafolio dispuesto para esta actividad. Si utiliza un compilador en línea debe cargar un archivo de texto plano que contenga sus datos personales, enlace del compilador y el código completo de su algoritmo.
+
+• Se evaluará la habilidad para resolver problemas del contexto utilizando con listas.
+• Buen funcionamiento de los algoritmos entregados.
+• Proyecto que no compile no será calificado.
